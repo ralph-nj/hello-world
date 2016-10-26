@@ -8,8 +8,13 @@ add something
 4
 5
 
+<<<<<<< HEAD
 
 1231
 23
 1231
 2312
+=======
+merge to master
+
+>>>>>>> master
